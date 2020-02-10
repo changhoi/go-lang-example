@@ -8,3 +8,4 @@
 
 - <http://golang.site>
 - <http://codingnuri.com/golang-book>
+- The Go Programming Language
